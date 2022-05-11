@@ -1,0 +1,9 @@
+name: Affiliate
+version: 1.0.1
+description: Erzeugt beim Shortcode affiliate eine Produkteinblendung
+author: Oliver Lohse
+homepage: https://www.cmsworkbench.de
+licence: MIT
+paypal:
+amount:
+
